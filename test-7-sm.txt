@@ -1,0 +1,10 @@
+M
+2
+2
+//sample M mode input file with two 2x2 rooms
+//castle room 0
+!C
+.!
+//castle room 1
+1S
+..
